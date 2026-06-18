@@ -44,7 +44,7 @@ const EXPERIENCE = [
   {
     role: "Full Stack Developer",
     company: "CSI COMPUTECH",
-    date: "Ongoing",
+    date: "Dec 2025–May 2026",
     desc: "Worked on Laravel-based projects end-to-end — designed RESTful APIs that actually REST (unlike me during deadlines), and built responsive frontends people didn't complain about.",
     tags: ["Laravel", "PHP", "REST APIs", "Frontend", "Full Stack"],
   },
