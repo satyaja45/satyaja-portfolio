@@ -323,7 +323,7 @@ function Contact() {
             <button className="form-btn" onClick={handleSubmit}>SEND IT →</button>
             {success && (
               <div className="form-success show">
-                ✓ Message received! Getting back to you faster than my ex.
+                ✓ Message received! Getting back to you faster than Leclerc.
               </div>
             )}
           </div>
